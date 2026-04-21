@@ -1,0 +1,10 @@
+Fay-Herriot Area Estimation with Integrated Data/base/data/
+**/base/data/
+
+# Ignorar toda la data
+base/data/
+
+# Otros archivos pesados
+*.csv
+*.zip
+*.sav
